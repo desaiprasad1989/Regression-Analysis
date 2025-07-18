@@ -20,3 +20,4 @@ The dataset consists of the following variables:
 3.Build a multiple linear regression model using the training dataset. Interpret the coefficients of the model. Build minimum of 3 different models.
 4.Evaluate the performance of the model using appropriate evaluation metrics on the testing dataset.
 5.Apply Lasso and Ridge methods on the model.
+
